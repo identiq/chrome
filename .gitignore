@@ -20,3 +20,4 @@ _site
 
 # Coverage
 coverage
+.Dockerfile.swp
